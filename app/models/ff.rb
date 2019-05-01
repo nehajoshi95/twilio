@@ -1,0 +1,2 @@
+class Ff < ApplicationRecord
+end
