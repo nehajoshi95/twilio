@@ -1,0 +1,2 @@
+module MmHelper
+end

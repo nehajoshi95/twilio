@@ -1,0 +1,2 @@
+class MmController < ApplicationController
+end
