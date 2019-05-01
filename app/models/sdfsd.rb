@@ -1,0 +1,2 @@
+class Sdfsd < ApplicationRecord
+end
